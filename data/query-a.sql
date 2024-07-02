@@ -1,0 +1,1 @@
+SELECT r.Date_Time, s.Station_Name, MAX(r.NOx) AS Max_NOx FROM reading r JOIN station s ON r.Station_ID = s.Station_ID WHERE YEAR(r.Date_Time) = 2022 GROUP BY r.Date_Time, s.Station_Name LIMIT 1;

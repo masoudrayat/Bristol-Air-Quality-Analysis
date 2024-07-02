@@ -1,0 +1,1 @@
+SELECT station.Station_ID, AVG(reading.PM2_5) AS Mean_PM2_5, AVG(reading.VPM2_5) AS Mean_VPM2_5 FROM station JOIN reading ON station.Station_ID = reading.Station_ID GROUP BY station.Station_ID;

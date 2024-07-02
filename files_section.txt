@@ -1,0 +1,20 @@
+- `data/Air_Quality_Continuous.csv`: The main dataset.
+- `data/pollution.sql`: SQL script to create the database schema.
+- `query-a.sql`: SQL query example A.
+- `query-b.sql`: SQL query example B.
+- `query-c.sql`: SQL query example C.
+- `cropped/Constituency.csv`: Constituency data.
+- `cropped/reading.csv`: Reading data.
+- `cropped/Schema.csv`: Schema data.
+- `cropped/Station.csv`: Station data.
+- `scripts/import.py`: Python script to import data from a CSV file to the MySQL database.
+- `scripts/cropped.py`: Python script to process and clean the dataset.
+- `images/pollution-er.png`: ER diagram of the database schema.
+- `images/readings.png`: Screenshot of the readings table in phpMyAdmin.
+- `nosql/mongo-q1.jpg`: Screenshot of a MongoDB aggregation query.
+- `nosql/mongo-q2.jpg`: Screenshot of another MongoDB aggregation query.
+- `nosql/nosql.md`: Markdown file with MongoDB query details.
+- `report/report.md`: Report markdown file.
+- `report/sql-q1.jpg`: Screenshot of an SQL query result.
+- `report/sql-q2.jpg`: Screenshot of another SQL query result.
+- `report/sql-q3.jpg`: Screenshot of another SQL query result.

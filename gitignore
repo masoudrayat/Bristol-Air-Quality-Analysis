@@ -1,0 +1,15 @@
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore data files that are large or should not be included
+*.csv
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
