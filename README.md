@@ -8,7 +8,7 @@
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ERD](https://img.shields.io/badge/ERD-004088?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
-This project is part of an air quality monitoring system designed to store and analyse data related to pollutants and environmental factors, specifically focusing on data from Bristol. The dataset spans from 1993 to October 22, 2023, and includes information collected from 19 monitoring stations in and around Bristol, totaling over 230 MB of data.
+This project is a component of an air quality monitoring system that specifically focuses on data from Bristol, storing and analysing data related to pollutants and environmental factors. The dataset spans from 1993 to October 22, 2023, and includes information collected from 19 monitoring stations in and around Bristol.
 
 ## Requirements Analysis and Design
 
