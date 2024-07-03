@@ -10,6 +10,31 @@
 
 This project is a component of an air quality monitoring system that specifically focuses on data from Bristol, storing and analysing data related to pollutants and environmental factors. The dataset spans from 1993 to October 22, 2023, and includes information collected from 19 monitoring stations in and around Bristol.
 
+## Table of Contents
+
+1. [Requirements Analysis and Design](#requirements-analysis-and-design)
+    - [Requirements Analysis](#requirements-analysis)
+    - [Database Design](#database-design)
+2. [Database Implementation](#database-implementation)
+    - [Database Creation](#database-creation)
+    - [Data Loading](#data-loading)
+3. [Data Analysis and Reporting](#data-analysis-and-reporting)
+    - [Data Analysis](#data-analysis)
+4. [Steps Taken](#steps-taken)
+    - [Cleaning and Data Preprocessing](#cleaning-and-data-preprocessing)
+    - [Visualisation and Statistical Analysis](#visualisation-and-statistical-analysis)
+    - [Creating and Implementing a Normalised Database](#creating-and-implementing-a-normalised-database)
+    - [Modelling, Implementing, and Querying a NoSQL Database](#modelling-implementing-and-querying-a-nosql-database)
+5. [Tools and Programming Languages Used](#tools-and-programming-languages-used)
+    - [Database Management](#database-management)
+    - [Database Management Tools](#database-management-tools)
+    - [Programming Languages](#programming-languages)
+    - [Data Analysis and Visualisation](#data-analysis-and-visualisation)
+    - [Design Tools](#design-tools)
+6. [Project Structure](#project-structure)
+
+---
+
 ## Requirements Analysis and Design
 
 - **Requirements Analysis**: Identified project requirements regarding the necessary data, including pollutants, station information, and constituency details.
