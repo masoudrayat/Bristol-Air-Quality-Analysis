@@ -13,18 +13,9 @@ This project is a component of an air quality monitoring system that specificall
 ## Table of Contents
 
 1. [Requirements Analysis and Design](#requirements-analysis-and-design)
-    - [Requirements Analysis](#requirements-analysis)
-    - [Database Design](#database-design)
 2. [Database Implementation](#database-implementation)
-    - [Database Creation](#database-creation)
-    - [Data Loading](#data-loading)
 3. [Data Analysis and Reporting](#data-analysis-and-reporting)
-    - [Data Analysis](#data-analysis)
 4. [Steps Taken](#steps-taken)
-    - [Cleaning and Data Preprocessing](#cleaning-and-data-preprocessing)
-    - [Visualisation and Statistical Analysis](#visualisation-and-statistical-analysis)
-    - [Creating and Implementing a Normalised Database](#creating-and-implementing-a-normalised-database)
-    - [Modelling, Implementing, and Querying a NoSQL Database](#modelling-implementing-and-querying-a-nosql-database)
 5. [Tools and Programming Languages Used](#tools-and-programming-languages-used)
 6. [Project Structure](#project-structure)
 
