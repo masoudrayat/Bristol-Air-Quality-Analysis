@@ -26,11 +26,6 @@ This project is a component of an air quality monitoring system that specificall
     - [Creating and Implementing a Normalised Database](#creating-and-implementing-a-normalised-database)
     - [Modelling, Implementing, and Querying a NoSQL Database](#modelling-implementing-and-querying-a-nosql-database)
 5. [Tools and Programming Languages Used](#tools-and-programming-languages-used)
-    - [Database Management](#database-management)
-    - [Database Management Tools](#database-management-tools)
-    - [Programming Languages](#programming-languages)
-    - [Data Analysis and Visualisation](#data-analysis-and-visualisation)
-    - [Design Tools](#design-tools)
 6. [Project Structure](#project-structure)
 
 ---
